@@ -173,8 +173,3 @@ Some features I would like to add in the future:
 - Threat intelligence integration
 - Improved command-line interface
 
-## Disclaimer
-
-This project was created for learning and defensive security practice.
-
-The network scanning functionality should only be used on systems that you own or have explicit permission to test.git add 
